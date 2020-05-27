@@ -1,0 +1,2 @@
+Hello dude
+Welcome to github where you can learn all about git and its command elaborately
